@@ -27,7 +27,8 @@ public class ArrayEstrutura {
          * Não podem mudar de tamanho depois de criados;
          * Usam a sintaxe tradicional com colchetes [].
          * No Java, os arrays fixos são construções especiais da linguagem, e suas classes são geradas automaticamente pela JVM
-         * em tempo de execução
+         * em tempo de execução. E por ser um objeto os arrays também herdam os métodos e atributos da super classe Object.
+         * A JVM consegue gerar e manipular classes internamente, inclusive gera algumas automaticamente, como no caso dos arrays
          * 
          * ✅ 2. Arrays dinâmicos (criados com as Collections do Java)
          * ArrayList<Integer> lista = new ArrayList<>();
