@@ -1,0 +1,12 @@
+Sua estrutura de pacotes pode ser pensada como uma hierarquia lógica, onde:
+
+
+Pacote estudos → É o pacote raiz que indica que tudo ali está relacionado aos seus estudos.
+
+Pacote logica → É o subpacote que representa a seção ou tema específico: lógica de programação.
+
+E os pacotes - tipos_variaveis,
+java_doc, entrada_dados_terminal → São os subpacotes dentro de lógica que organizam
+os diferentes assuntos ou tópicos que você esta estudando.
+
+
